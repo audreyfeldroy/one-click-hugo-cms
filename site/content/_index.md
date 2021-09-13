@@ -1,10 +1,10 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Dispose of old laptops with a conscience"
+subtitle: Support families in need while getting a tax deduction
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Donate?
+    text: "Laptops for Families is the donation program for everyone who believes that getting rid of old laptops shouldn't just feel good, it should do good too. We connect with all of our families directly through local NGOs and schools, and we follow up with workshops and mentorship to teach them how to use their new laptops."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
